@@ -1,0 +1,23 @@
+
+.wrapper{
+  width: 500px;
+  height: 300px;  
+  padding: 5px;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  top: 0px;
+  margin: auto;
+}
+
+
+.wrapper-form{
+    position: relative;
+}
+.countText{
+ position: absolute;   
+ right: 10px;
+ bottom: 50px;
+ z-index: 10;
+}
